@@ -53,5 +53,5 @@ UnityGamePlayMetrics by [Kaspar Manz | xeophin.net/worlds][2] is licensed under 
 
 Also, I do not claim that it will work on the first try. This is very much work done on the go, and was never really been intended to be released. But maybe with the help of other people, this could even get useful, who knows?
 
-[3]: http://xeophin.net/unitygameplaymetrics
+[2]: http://xeophin.net/unitygameplaymetrics
 [4]: http://creativecommons.org/licenses/by/3.0/
