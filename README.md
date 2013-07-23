@@ -23,7 +23,7 @@ How you want to visualise all this data is entirely up to you.
 
 Not really – not at the moment, anyway. But this is exactly why I put it up on GitHub: feel free to fork it, improve the code – and I will try to integrate your changes back.
 
-![Stories in Ready](https://badge.waffle.io/xeophin/UnityGamePlayMetrics.png)](http://waffle.io/xeophin/UnityGamePlayMetrics)
+[![Stories in Ready](https://badge.waffle.io/xeophin/UnityGamePlayMetrics.png)](http://waffle.io/xeophin/UnityGamePlayMetrics)
 
 ## How to Use ##
 
